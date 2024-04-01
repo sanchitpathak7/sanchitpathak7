@@ -9,8 +9,7 @@ I have a profound passion for tackling complex challenges in cloud infrastructur
 
 ---
 ### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- 
+- [EKS Cluster Provisioning with VPC Configuration using Terraform](https://sanchitpathak.com/blog/eks-with-terraform/)
 
 ---
 ### Languages and tools ⚙️
