@@ -10,6 +10,8 @@ I have a profound passion for tackling complex challenges in cloud infrastructur
 ---
 ### 📕 Latest Blog Posts
 - [EKS Cluster Provisioning with VPC Configuration using Terraform](https://sanchitpathak.com/blog/eks-with-terraform/)
+- [Azure DevOps CI/CD Project for Distributed Microservice Application](https://sanchitpathak.com/blog/azure-devops-cicd/)
+- [EBS Volume GP2 to GP3 Conversion using a CloudWatch Events Triggered Lambda Function](https://sanchitpathak.com/blog/ebs-volume-conversion/)
 
 ---
 ### Languages and tools ⚙️
