@@ -5,7 +5,9 @@
 
 ---
 
-I have a profound passion for tackling complex challenges in cloud infrastructure across diverse platforms. My expertise revolves around leveraging Infrastructure as Code tools like Terraform, Ansible, and Saltstack, coupled with CI/CD pipelines. I excel in Docker, Kubernetes, and other cutting-edge technologies, embracing cloud-native and agile principles wholeheartedly. Recently, I’ve been delving deeper into Data Structures and Algorithms, enhancing my proficiency in Python and Bash scripting along the way.
+With a strong background in large-scale distributed systems, I have working knowledge in technologies like Kubernetes, OpenStack, Terraform, Linux, and Cloud Networking.
+
+I have more than five years of experience in product development, infrastructure design, and product support within both public and private cloud environments. Currently, as a Software Engineer, I focus on implementing Kubernetes controllers and operators using Golang. My work includes fixing product defects, ensuring proper metrics and telemetry for monitoring, developing microservice integrations with Auth0 and Stripe, and designing CI/CD pipelines to streamline code integrations.
 
 ---
 ### 📕 Latest Blog Posts
