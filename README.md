@@ -5,9 +5,7 @@
 
 ---
 
-With a strong background in large-scale distributed systems, I have working knowledge in technologies like Kubernetes, OpenStack, Terraform, Linux, and Cloud Networking.
-
-I have more than five years of experience in product development, infrastructure design, and product support within both public and private cloud environments. Currently, as a Software Engineer, I focus on implementing Kubernetes controllers and operators using Golang. My work includes fixing product defects, ensuring proper metrics and telemetry for monitoring, developing microservice integrations with Auth0 and Stripe, and designing CI/CD pipelines to streamline code integrations.
+Experienced professional with more than 5 years of experience in SaaS product development, cloud infrastructure design, customer success, account management in public and private cloud domain. Dedicated to fostering strong relationships, driving product adoption, and ensuring exceptional customer success.
 
 ---
 ### 📕 Latest Blog Posts
