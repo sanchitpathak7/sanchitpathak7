@@ -5,13 +5,7 @@
 
 ---
 
-Experienced professional with more than 5 years of experience in SaaS product development, cloud infrastructure design, customer success, account management in public and private cloud domain. Dedicated to fostering strong relationships, driving product adoption, and ensuring exceptional customer success.
-
----
-### 📕 Latest Blog Posts
-- [EKS Cluster Provisioning with VPC Configuration using Terraform](https://sanchitpathak.com/blog/eks-with-terraform/)
-- [Azure DevOps CI/CD Project for Distributed Microservice Application](https://sanchitpathak.com/blog/azure-devops-cicd/)
-- [EBS Volume GP2 to GP3 Conversion using a CloudWatch Events Triggered Lambda Function](https://sanchitpathak.com/blog/ebs-volume-conversion/)
+Experienced professional with more than 7 years of experience in SaaS product development, cloud infrastructure design, customer success, account management in public and private cloud domain. Dedicated to fostering strong relationships, driving product adoption, and ensuring exceptional customer success.
 
 ---
 ### Languages and tools ⚙️
