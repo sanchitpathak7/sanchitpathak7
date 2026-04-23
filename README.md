@@ -6,4 +6,8 @@
 ---
 Currently working at Crusoe AI with overall 7 plus years of experience in Cloud and AI infrastructure.
 
-[![](https://github.com/user-attachments/assets/2a228d10-cdc1-4777-9c8e-bbdf62617823)](https://github.com/user-attachments/assets/2a228d10-cdc1-4777-9c8e-bbdf62617823)
+### AI Lab: NVIDIA B200 vs GB200 explained | GPU architecture for LLMs
+[![](https://github.com/user-attachments/assets/2a228d10-cdc1-4777-9c8e-bbdf62617823)](https://www.youtube.com/watch?v=UpW6iDyc0C8)
+
+NVIDIA-Certified Associate: AI Infrastructure and Operations
+[![](https://www.credly.com/badges/37321e8e-3b7c-4b39-b041-0583cf99f66c)]
