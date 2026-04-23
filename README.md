@@ -1,4 +1,4 @@
-# Hi there, I’m Sanchit 👋
+### Hi there, I’m Sanchit 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanchit-pathak7/)
 
 7+ years in Cloud and AI infrastructure. Currently working at Crusoe AI.
