@@ -1,28 +1,15 @@
 # Sanchit Pathak
-
-AI Infrastructure | Cloud | Kubernetes | LLM Systems
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanchit-pathak7/)
-
----
-
-## 🚀 About
 
 7+ years in Cloud and AI infrastructure.  
 Currently working at Crusoe AI.
 
----
-
-## 🎥 Featured Work
-
+## Lightboard Video
 <a href="https://www.youtube.com/watch?v=UpW6iDyc0C8">
   <img src="https://github.com/user-attachments/assets/2a228d10-cdc1-4777-9c8e-bbdf62617823" width="240"/>
 </a>
 
----
-
-## 🏅 Certifications
-
+## Certifications
 <p align="left">
   <a href="https://www.credly.com/badges/37321e8e-3b7c-4b39-b041-0585cf99f66c">
     <img src="https://images.credly.com/size/680x680/images/3d924691-436a-4fb6-b19b-1005ccbb6135/blob" width="80"/>
